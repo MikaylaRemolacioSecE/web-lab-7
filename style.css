@@ -1,0 +1,44 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1{
+    color: aliceblue;
+    font-size: 5em;
+    background-color: rgb(22, 30, 58);
+    padding: 10%;
+    margin: 1%;
+}
+
+p{
+    color: white;
+    padding-bottom: 2%;
+
+}
+
+ul{
+    list-style-type: none;
+    
+}
+
+li{
+    display: flex;
+    padding: 0.2vh;
+    color: white;
+}
+
+button{
+    background-color: rgb(25, 39, 68);
+    color: white;
+    border-color: rgb(86, 99, 126);
+    border-radius: 5%;
+    margin: 1%;
+}
+
+button:hover{
+    box-shadow: 0 5px 10px 0 rgba(101, 140, 224, 0.764);
+}
+
+
+
